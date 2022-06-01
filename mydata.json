@@ -3,35 +3,35 @@
   "model": "cities.city",
   "pk": 20,
   "fields": {
-    "name": "Берлин"
+    "name": "Р‘РµСЂР»РёРЅ"
   }
 },
 {
   "model": "cities.city",
   "pk": 21,
   "fields": {
-    "name": "Вена"
+    "name": "Р’РµРЅР°"
   }
 },
 {
   "model": "cities.city",
   "pk": 22,
   "fields": {
-    "name": "Краков"
+    "name": "РљСЂР°РєРѕРІ"
   }
 },
 {
   "model": "cities.city",
   "pk": 23,
   "fields": {
-    "name": "Варшава"
+    "name": "Р’Р°СЂС€Р°РІР°"
   }
 },
 {
   "model": "cities.city",
   "pk": 24,
   "fields": {
-    "name": "Астана"
+    "name": "РђСЃС‚Р°РЅР°"
   }
 },
 {
